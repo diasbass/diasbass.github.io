@@ -1,0 +1,16 @@
+.social-links li {
+	display: inline-block;
+	list-style: none;
+	width: 18%;
+}
+.social-links {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.social-links li a {
+	display: block;
+	width: 100%;
+	max-width: 85px;
+	height: auto;
+}
