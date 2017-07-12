@@ -14,3 +14,23 @@
 	max-width: 85px;
 	height: auto;
 }
+
+.list-professional {
+
+}
+
+.list-professional dt {
+	font-weight: bold;
+	margin-bottom: 10px;	
+	display: block;
+	font-size: 14px;
+}
+
+.list-professional dd {
+	margin: 0 10px 20px;
+	font-size: 12px;
+}
+
+.list-professional dd p {
+	margin: 5px 0;
+}
